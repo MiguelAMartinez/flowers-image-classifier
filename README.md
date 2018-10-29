@@ -9,6 +9,6 @@ This project uses the [102 Category Flower Dataset](http://www.robots.ox.ac.uk/~
 ### Project Files
 The `image_classifier.ipynb` file contains the Jupyter Notebook for the design, training, testing and evaluation of the deep learning model.
 
-The files `model_ic.py`, `utils_ic.py`, `train.py`, `predict.py` convert the model into a command line application. `train.py` trains a new network on a dataset and saves the model as a checkpoint. `predict.py` uses a trained network to predict the class for an input image. 
+The files `model_ic.py`, `utils_ic.py`, `train.py`, `predict.py` convert the model into a command line application. `train.py` trains a new network on a dataset and saves the model as a checkpoint. `predict.py` uses a trained network to predict the class for an input image.
 
-I completed this project as a part of the Udacity [Data Scientist Nanodegree program](https://www.udacity.com/course/data-scientist-nanodegree--nd025).  
+I completed this project as a part of the Udacity Data Scientist Nanodegree program. 
